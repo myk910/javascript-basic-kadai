@@ -21,5 +21,5 @@ else if(num % 5 === 0){
 }
 // それ以外のときは、変数（num）を出力する
 else {
-  console.log('num');
+  console.log(num);
 }
